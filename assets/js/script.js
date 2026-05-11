@@ -237,7 +237,7 @@ function initWhatsAppButton() {
     const restaurantPhoneNumber = '380984211558';
 
     // Default message
-    const defaultMessage = 'Ciao! Vorrei informazioni sul vostro ristorante.'; // Italian
+    const defaultMessage = 'Ciao! Vorrei prenotare un tavolo'; // Italian
     
     // Handle WhatsApp button click
     whatsappButton.addEventListener('click', function(e) {
